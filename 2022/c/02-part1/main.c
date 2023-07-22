@@ -4,7 +4,7 @@
 #include <string.h>  // memset
 #include <stdlib.h>  // atoi
 
-#define DEBUG 1
+#define DEBUG 0
 #define BUF_SIZE 8
 
 typedef enum rps {
