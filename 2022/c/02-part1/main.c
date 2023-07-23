@@ -114,8 +114,6 @@ result_t match_result(rps_t player, rps_t opponent) {
     return UnknownResult;
 }
 
-char strategy_map;
-
 int main() {
     uint32_t accumulated_score = 0;
 
