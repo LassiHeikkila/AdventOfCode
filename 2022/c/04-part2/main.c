@@ -23,7 +23,6 @@ typedef struct section_range {
  */
 bool ranges_overlap(section_range_t a, section_range_t b);
 
-
 int main() {
     char buf[BUF_SIZE];
     memset(buf, 0, BUF_SIZE);
